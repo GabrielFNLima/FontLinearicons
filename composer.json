@@ -1,0 +1,23 @@
+{
+    "name": "gfnl/fontlinearicons",
+    "description": "",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "Gabriel Lima",
+            "homepage": "https://github.com/GabrielFNLima"
+        }
+    ],
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "psr-4": {
+            "GFNL\\FontLinearicons\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
